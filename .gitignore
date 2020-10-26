@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 # Log
-log/*.txt
+*/log/*.txt
 
 # Config
-conf/*.yml
-conf/*.yaml
+*/conf/*.yml
+*/conf/*.yaml
