@@ -1,0 +1,16 @@
+# Known Devices
+devices: ["HUAWEI_Y6_2019-4981a2ac41", "DellLatitude-PC", "Lenovo330S", "RedmiNote6Pro-RedMI", "gyurkovicszs-pc"]
+
+# Windows
+app_path: 'C:\Users\zsomb\PycharmProjects\network_monitor\'
+
+# Linux
+#app_path: '/home/pi/software/network_monitor'
+
+# Email sending
+from_address: 'gyhome.reporter@gmail.com'
+to_address: 'zsomborjoel@gmail.com'
+
+# Router
+host: 192.168.0.1
+port: 22

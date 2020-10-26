@@ -1,0 +1,155 @@
+2020-10-26 20:37:38.919449: Process started
+2020-10-26 20:37:42.033837: Process ended
+2020-10-26 20:37:42.039855: ====================================================================
+2020-10-26 20:38:42.099148: Process started
+2020-10-26 20:39:43.848362: Process started
+2020-10-26 20:39:46.959688: Authentication failed.
+2020-10-26 20:55:43.892376: Process started
+2020-10-26 20:56:04.930686: [WinError 10060] A kapcsolódási kísérlet nem sikerült, mert a kapcsolódó partner nem válaszolt a megadott idõn belül, vagy a létrehozott kapcsolatban hiba történt, mert a kapcsolódó partner nem volt képes válaszolni
+2020-10-26 20:57:13.838448: Process started
+2020-10-26 20:57:16.650385: Ssh was successful
+2020-10-26 20:57:24.499006: Ssh was successful
+2020-10-26 20:57:57.421878: Process started
+2020-10-26 20:58:00.179417: Ssh was successful
+2020-10-26 20:59:16.979310: Process started
+2020-10-26 20:59:19.708194: Ssh was successful
+2020-10-26 20:59:27.767599: Ssh was successful
+2020-10-26 20:59:41.449959: Process started
+2020-10-26 20:59:44.211435: Ssh was successful
+2020-10-26 21:00:03.676894: Process started
+2020-10-26 21:01:10.887025: Process started
+2020-10-26 21:01:13.702797: Ssh was successful
+2020-10-26 21:02:15.532462: Process started
+2020-10-26 21:02:18.260108: Ssh was successful
+2020-10-26 21:04:28.697549: Process started
+2020-10-26 21:04:31.436538: Ssh was successful
+2020-10-26 21:05:03.939511: Process started
+2020-10-26 21:05:06.696449: Ssh was successful
+2020-10-26 21:17:23.141363: Process started
+2020-10-26 21:17:23.144352: In connect
+2020-10-26 21:17:25.902978: Ssh was successful
+2020-10-26 21:17:25.905989: In run command
+2020-10-26 21:17:31.019259: In run command
+2020-10-26 21:18:32.867399: Process started
+2020-10-26 21:18:32.869395: In connect
+2020-10-26 21:18:35.567575: Ssh was successful
+2020-10-26 21:18:35.570565: In run command
+2020-10-26 21:18:40.789376: In run command
+2020-10-26 21:18:46.007830: In run command
+2020-10-26 21:18:52.816297: Process started
+2020-10-26 21:18:52.820298: In connect
+2020-10-26 21:18:55.639760: Ssh was successful
+2020-10-26 21:18:55.642760: In run command
+2020-10-26 21:19:00.845648: In run command
+2020-10-26 21:19:06.002402: In run command
+2020-10-26 21:19:11.173340: In run command
+2020-10-26 21:19:16.337905: In run command
+2020-10-26 21:19:45.934509: Process started
+2020-10-26 21:19:45.936398: In connect
+2020-10-26 21:19:49.206198: Ssh was successful
+2020-10-26 21:19:49.209197: In run command
+2020-10-26 21:19:54.379594: In run command
+2020-10-26 21:19:59.546554: In run command
+2020-10-26 21:20:15.614658: Process started
+2020-10-26 21:20:15.617643: In connect
+2020-10-26 21:20:18.378601: Ssh was successful
+2020-10-26 21:20:18.380614: In run command
+2020-10-26 21:20:23.558856: In run command
+2020-10-26 21:23:03.713126: Process started
+2020-10-26 21:23:03.716115: In connect
+2020-10-26 21:23:06.538434: Ssh was successful
+2020-10-26 21:23:06.541534: In run command
+2020-10-26 21:23:11.688432: In run command
+2020-10-26 21:23:16.895412: In run command
+2020-10-26 21:23:22.024907: In run command
+2020-10-26 21:30:44.731366: Process started
+2020-10-26 21:30:44.735351: In connect
+2020-10-26 21:30:47.501704: Ssh was successful
+2020-10-26 21:30:47.506684: In run command
+2020-10-26 21:30:47.626321: 'str' object has no attribute 'trim'
+2020-10-26 21:31:57.836260: Process started
+2020-10-26 21:31:57.839242: In connect
+2020-10-26 21:32:00.559222: Ssh was successful
+2020-10-26 21:32:00.563221: In run command
+2020-10-26 21:32:00.684733: 'str' object has no attribute 'trim'
+2020-10-26 21:33:03.740221: Process started
+2020-10-26 21:33:03.745222: In connect
+2020-10-26 21:33:06.453475: Ssh was successful
+2020-10-26 21:33:06.457487: In run command
+2020-10-26 21:33:06.577745: 'str' object has no attribute 'trim'
+2020-10-26 21:33:32.462514: Process started
+2020-10-26 21:33:32.466501: In connect
+2020-10-26 21:33:35.368644: Ssh was successful
+2020-10-26 21:33:35.372647: In run command
+2020-10-26 21:33:40.626812: In run command
+2020-10-26 21:33:45.907355: In run command
+2020-10-26 21:33:51.273446: In run command
+2020-10-26 21:33:56.533891: In run command
+2020-10-26 21:34:01.801960: In run command
+2020-10-26 21:34:22.607883: Process started
+2020-10-26 21:34:22.611885: In connect
+2020-10-26 21:34:25.383802: Ssh was successful
+2020-10-26 21:34:25.387813: In run command
+2020-10-26 21:34:30.600680: In run command
+2020-10-26 21:34:49.879761: Process started
+2020-10-26 21:34:49.884782: In connect
+2020-10-26 21:34:52.709345: Ssh was successful
+2020-10-26 21:34:52.713349: In run command
+2020-10-26 21:34:57.861168: In run command
+2020-10-26 21:35:03.002577: In run command
+2020-10-26 21:35:08.142850: In run command
+2020-10-26 21:35:13.289913: In run command
+2020-10-26 21:35:18.430600: In run command
+2020-10-26 21:35:23.570015: In run command
+2020-10-26 21:51:13.877446: Process started
+2020-10-26 21:51:13.881462: In connect
+2020-10-26 21:51:16.882988: Ssh was successful
+2020-10-26 21:51:16.887032: In run command
+2020-10-26 21:51:17.007179: can only concatenate str (not "list") to str
+2020-10-26 21:55:18.281860: Process started
+2020-10-26 21:55:18.284872: In connect
+2020-10-26 21:55:20.968205: Ssh was successful
+2020-10-26 21:55:20.972205: In run command
+2020-10-26 21:55:21.094271: In unexpected devices
+2020-10-26 21:55:21.912176: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials t8sm6546273ejc.45 - gsmtp')
+2020-10-26 22:00:32.446447: Process started
+2020-10-26 22:00:32.451447: In connect
+2020-10-26 22:00:35.474577: Ssh was successful
+2020-10-26 22:00:35.478578: In run command
+2020-10-26 22:00:35.620911: In unexpected devices
+2020-10-26 22:00:35.625911: expected bytes-like object, not NoneType
+2020-10-26 22:01:40.048859: Process started
+2020-10-26 22:01:40.051847: In connect
+2020-10-26 22:01:43.204679: Ssh was successful
+2020-10-26 22:01:43.209537: In run command
+2020-10-26 22:01:43.344848: In unexpected devices
+2020-10-26 22:01:43.999997: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p1sm4928854ejd.33 - gsmtp')
+2020-10-26 22:06:05.653654: Process started
+2020-10-26 22:06:05.657654: In connect
+2020-10-26 22:06:09.032845: Ssh was successful
+2020-10-26 22:06:09.036844: In run command
+2020-10-26 22:06:09.174857: In unexpected devices
+2020-10-26 22:06:10.494475: Email sent successfully
+2020-10-26 22:06:15.506297: In run command
+2020-10-26 22:06:15.644314: In unexpected devices
+2020-10-26 22:07:46.174263: Process started
+2020-10-26 22:07:46.178263: In connect
+2020-10-26 22:07:49.261615: Ssh was successful
+2020-10-26 22:07:49.267617: In run command
+2020-10-26 22:07:49.402034: In unexpected devices
+2020-10-26 22:09:00.338762: Process started
+2020-10-26 22:09:00.342775: In connect
+2020-10-26 22:09:03.456460: Ssh was successful
+2020-10-26 22:09:03.461459: In run command
+2020-10-26 22:09:03.598838: In unexpected devices
+2020-10-26 22:09:05.012488: Email sent successfully
+2020-10-26 22:09:10.021798: In run command
+2020-10-26 22:09:10.164380: In unexpected devices
+2020-10-26 22:10:10.779423: Process started
+2020-10-26 22:10:10.785414: In connect
+2020-10-26 22:10:14.179246: Ssh was successful
+2020-10-26 22:10:14.182245: In run command
+2020-10-26 22:10:14.332325: In unexpected devices
+2020-10-26 22:10:15.687280: Email sent successfully
+2020-10-26 22:10:20.698390: In run command
+2020-10-26 22:10:20.835508: In unexpected devices
