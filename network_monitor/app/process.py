@@ -32,6 +32,7 @@ def process(ssh):
         send_mail(from_address, to_address, subject, email_password, str(unexpected_devices))
         last_unexpected_devices = unexpected_devices
     else:
+        add_to_log("In sleep mode")
         time.sleep(1 * 60 * 60)
 
 

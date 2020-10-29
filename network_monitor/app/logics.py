@@ -12,9 +12,9 @@ def get_unexpected_devices(log, known_devices):
     unexpected_devices = []
     for elem in log:
         if "DHCPACK(br0)" in elem:
-            device = elem.split("DHCPACK(br0)")[1]
-            device_name = device.split(" ")[3].strip()
-            if device_name not in known_devices and device_name not in unexpected_devices:
-                unexpected_devices.append(device.strip())
+            device = elem.split("DHCPACK(br0)")[1].strip()
+            device_name = device.split(" ")[2]
+            if device_name not in known_devices and device not in unexpected_devices:
+                unexpected_devices.append(device)
 
     return unexpected_devices
